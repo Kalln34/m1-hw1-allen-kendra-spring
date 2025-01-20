@@ -1,4 +1,5 @@
 # My First Coding Assignment
+![Lemon aid](lemonaid.jpg)
 
 ## About Me
 I am currently enrolled in the Web Design & Online Communication masters program. Outside of education, I dabble in learning new languages, digital drawing, and enjoying the outdoors.
